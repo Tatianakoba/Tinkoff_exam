@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\002_exam\bin\Debug\002_exam.exe.config
+C:\Users\Tatiana\source\repos\002_exam\bin\Debug\002_exam.exe
+C:\Users\Tatiana\source\repos\002_exam\bin\Debug\002_exam.pdb
+C:\Users\Tatiana\source\repos\002_exam\obj\Debug\002_exam.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\002_exam\obj\Debug\002_exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\002_exam\obj\Debug\002_exam.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\002_exam\obj\Debug\002_exam.exe
+C:\Users\Tatiana\source\repos\002_exam\obj\Debug\002_exam.pdb

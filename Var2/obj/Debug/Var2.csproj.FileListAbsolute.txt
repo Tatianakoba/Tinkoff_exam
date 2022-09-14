@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Var2\bin\Debug\Var2.exe.config
+C:\Users\Tatiana\source\repos\Var2\bin\Debug\Var2.exe
+C:\Users\Tatiana\source\repos\Var2\bin\Debug\Var2.pdb
+C:\Users\Tatiana\source\repos\Var2\obj\Debug\Var2.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Var2\obj\Debug\Var2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Var2\obj\Debug\Var2.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Var2\obj\Debug\Var2.exe
+C:\Users\Tatiana\source\repos\Var2\obj\Debug\Var2.pdb

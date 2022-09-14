@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\001_Contest\bin\Debug\001_Contest.exe.config
+C:\Users\Tatiana\source\repos\001_Contest\bin\Debug\001_Contest.exe
+C:\Users\Tatiana\source\repos\001_Contest\bin\Debug\001_Contest.pdb
+C:\Users\Tatiana\source\repos\001_Contest\obj\Debug\001_Contest.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\001_Contest\obj\Debug\001_Contest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\001_Contest\obj\Debug\001_Contest.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\001_Contest\obj\Debug\001_Contest.exe
+C:\Users\Tatiana\source\repos\001_Contest\obj\Debug\001_Contest.pdb
